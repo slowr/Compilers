@@ -1,5 +1,5 @@
-/*********************************************************************/
-/* Filename: 	readme.txt - Project 5th Phase						 */
-/* Author(s): 	Dimitris Mavrommatis (mavromat@csd.uoc.gr - ID 2961) */
-/*				Iakovos Kolokasis (kolokasis@csd.uoc.gr - ID 2950)	 */
-/*********************************************************************/
+-- Yacc, Flex, GCC
+1. Syntax Analysis
+2. Symbol Table
+3. Intermediate Code
+4. Code Generation
